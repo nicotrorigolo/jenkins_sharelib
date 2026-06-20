@@ -1,4 +1,4 @@
-def hi() {
+def call() {
     sh '''
         echo "Hello sharelib !"
     '''
